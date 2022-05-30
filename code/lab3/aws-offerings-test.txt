@@ -1,0 +1,6 @@
+Great connecting with other #AWS ninjas today at #AWSSummitLondon 🐱‍👤 @awscloud
+"How far out is Fargate?" - Diving into the strengths and weaknesses of #AWS #Fargate with Michael Lavers.
+AWS announces availability of Amazon Managed Blockchain service http://bit.ly/2H3oepU
+New in #AWS: Amazon Kinesis Data Analytics now allows you to assign AWS resource tags to your real-time applications
+Serverless has become the most used deployment pattern for cloud applications. In this field, AWS Lambda is a very well known player. Every developer wants to get his hands dirty with lambda, build a quick function code, and run it. 
+At re:Invent 2050, Amazon announced a new product called Amazon DeepThought.  It is the most amazing cloud service ever developed.
